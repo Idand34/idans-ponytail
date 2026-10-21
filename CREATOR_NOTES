@@ -1,0 +1,23 @@
+Author: Idan Dovrat
+Year: 2026
+Project: idans-ponytail (Token Economy & Context Guard)
+
+1. ACKNOWLEDGMENT OF UPSTREAM WORK:
+I want to give full credit and sincere gratitude to the original creators
+of the "Ponytail" lazy senior developer mode. Their philosophy of 
+"the best code is code never written" served as the core foundation 
+for this project.
+
+2. PURPOSE OF THIS EXTENSION:
+As AI agents grew more autonomous, a new bottleneck emerged: context bloat.
+I developed idans-ponytail to bridge software minimalism with runtime 
+token economy—enforcing quiet flags, grep filtering, and surgical line edits 
+so that agents remain fast, focused, and cost-effective.
+
+3. COMMUNITY COURTESY & ATTRIBUTION:
+You are free to adopt these workflows into your development routine.
+If you share, adapt, or build upon this work, please preserve attribution 
+to both the original Ponytail inspiration and Idan Dovrat for the 
+token-economy enhancements.
+
+Thank you for building lean and respecting context limits!
